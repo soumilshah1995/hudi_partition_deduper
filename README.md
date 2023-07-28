@@ -1,4 +1,11 @@
-# hudi_partition_deduper
+
+# Watch 
+![image](https://github.com/soumilshah1995/hudi_partition_deduper/assets/39345855/2ee596e7-eb2f-4818-9c3f-3a788a2d36e8)
+
+#### Video
+https://www.youtube.com/watch?v=ue5M0_euwis
+
+
 # Remove Duplicates from given Hudi Partition 
 ```
     helper_class = PartitionDeduper(
